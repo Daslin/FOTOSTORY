@@ -1,0 +1,1 @@
+![Stripes & Co](../../static/img/work/proj-8/stripes-co-NickZoutendijk.jpg)

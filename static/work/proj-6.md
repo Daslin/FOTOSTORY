@@ -1,0 +1,1 @@
+![Timeline Page](../../static/img/work/proj-6/TimeLinePage-SergeyValiukh.jpg)

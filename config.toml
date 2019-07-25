@@ -24,7 +24,7 @@ title = "Foto Story"
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-	email = "daslindavidson@gmail.com"
+	  email = "daslindavidson@gmail.com"
 
 
 	# Header an navigation
@@ -34,7 +34,7 @@ title = "Foto Story"
 	# But keep the original filename!
 	[params.header]
 		title = "FOTOSTORY"
-		shortBio = "Photographer // Rider // Developer"
+		shortBio = "Photographer // Designer // Developer"
 
 
 	# About section
@@ -47,30 +47,14 @@ title = "Foto Story"
 		[[params.about.skills]]
 			name = "Communication"
 			value = 8
-
-		[[params.about.skills]]
-			name = "Travelling"
-			value = 7
-
+	
 		[[params.about.skills]]
 			name = "Learning"
 			value = 10
-
+		
 		[[params.about.skills]]
-			name = "Teaching"
-			value = 6
-
-		[[params.about.skills]]
-			name = "Planning"
+			name = "Photography"
 			value = 7
-
-		[[params.about.skills]]
-			name = "Visual Design"
-			value = 5
-
-		[[params.about.skills]]
-			name = "Driving"
-			value = 8
 
 		[[params.about.skills]]
 			name = "Programming"
@@ -85,25 +69,24 @@ title = "Foto Story"
 		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 		[[params.contact.social]]
 			icon = "twitter"
-			link = "//twitter.com/devtipsshow"
+			link = "//twitter.com/DaslinDM"
 
 		[[params.contact.social]]
-			icon = "dribbble"
-			link = "//dribbble.com/travisneilson"
+			icon = "instagram"
+			link = "//www.instagram.com/dazlin_dm/"
 
 		[[params.contact.social]]
-			icon = "behance"
-			link = "//www.behance.net/travisneilson"
+			icon = "facebook"
+			link = "//www.facebook.com/daslin.john"
 
 		[[params.contact.social]]
 			icon = "youtube"
-			link = "//www.youtube.com/DevTipsForDesigners"
+			link = "//www.youtube.com/channel/UCIdOCYTI6ILLAjFo1tjLMKA?view_as=subscriber"
 
 		[[params.contact.social]]
 			icon = "linkedin"
-			link = "//www.linkedin.com/in/travisneilson"
-
-
+			link = "//www.linkedin.com/in/daslindavidson18"
+	
 	[params.form]
 		title = "Let's work together"
 		# Form fields
