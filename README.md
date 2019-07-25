@@ -1,2 +1,0 @@
-# FOTOSTORY
- Photography
