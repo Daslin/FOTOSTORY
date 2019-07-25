@@ -1,2 +1,2 @@
 # FOTOSTORY
- Photograthy
+ Photography
