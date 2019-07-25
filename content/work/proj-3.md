@@ -1,0 +1,1 @@
+![Crispy Icons](../../static/img/work/proj-3/CrispyIcons-PetrasNargela.jpg)
